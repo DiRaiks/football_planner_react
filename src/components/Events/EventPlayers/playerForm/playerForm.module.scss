@@ -8,17 +8,12 @@
   width: 100%;
 }
 
-.dateTime {
-  display: flex;
+.friends {
+  margin-top: 16px;
+}
 
-  & .date {
-    flex: 3;
-    margin-right: 10px;
-  }
-
-  & .time {
-    flex: 1;
-  }
+.addFriendButton {
+  margin: 24px 24px 0 0;
 }
 
 .createButton {
