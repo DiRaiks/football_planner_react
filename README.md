@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Requirements
+- Node.js 22 or later
+
+> **Note:** With Node 22 you may need to run the development server using the
+> `--openssl-legacy-provider` flag. The included `yarn start` script already sets
+> this option.
+
 ## Available Scripts
 
 In the project directory, you can run:
